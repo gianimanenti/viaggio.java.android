@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:font="@font/bree">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:font="@font/bree"
+            android:id="@+id/restaurant"
+            android:icon="@drawable/restaurant"
+            android:title="Best Restaurants" />
+
+        <item
+            android:id="@+id/tourist_attractions"
+            android:icon="@drawable/touristatra"
+            android:title="Tourist Attractions" />
+
+        <item
+            android:id="@+id/pizza_napoli"
+            android:icon="@drawable/pizza_pin"
+            android:title="The Pizza of Napoli" />
+
+        <item
+            android:id="@+id/art_galery"
+            android:icon="@drawable/art"
+            android:title="Wonderful Art" />
+
+    </group>
+</menu>

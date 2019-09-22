@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.NavigationView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--- TOP LAYOUT -->
+
+        <RelativeLayout
+            android:id="@+id/reLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+        </RelativeLayout>
+
+        <!--- MIDLE -->
+        <RelativeLayout
+            android:id="@+id/reLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reLayout1">
+
+            <include layout="@layout/login_center_viewpager" />
+
+            <include layout="@layout/login_input_viewpager" />
+
+        </RelativeLayout>
+
+        <include layout="@layout/login_bottom_navigation_view"/>
+
+
+        <ProgressBar
+            android:id="@+id/loginProgressBar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+
+
+</android.support.design.widget.NavigationView>
+
+

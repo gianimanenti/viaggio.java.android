@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#c51162</color>
+    <color name="accent_material_light_1">#8dc53e</color>
+    <color name="primary_material_light">#ffffff</color>
+    <color name="background">#fafafa</color>
+    <color name="background_material_light">#ffffff</color>
+    <color name="menu">#e91e63</color>
+    <color name="party">#ad1457</color>
+    <color name="art_gallery">#C2185B</color>
+    <color name="music">#d81b60</color>
+    <color name="pizza">#1976d2</color>
+    <color name="street_art">#1e88e5</color>
+    <color name="restaurant">#00c853</color>
+    <color name="museum">#00e676</color>
+    <color name="greenBack">#a7eb4e</color>
+    <color name="text">#c51162</color>
+    <color name="textDisable">#666666</color>
+    <color name="purpleBack">#6352c8</color>
+
+
+
+
+
+</resources>

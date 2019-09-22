@@ -1,0 +1,14 @@
+<merge xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/common_google_signin_btn_text_dark_focused"
+        android:backgroundTint="@drawable/white_grey_top">
+
+
+    </RelativeLayout>
+</merge>

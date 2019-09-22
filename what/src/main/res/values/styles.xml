@@ -1,0 +1,36 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textColor">@color/stream_dark_black</item>
+        <item name="android:titleTextColor">@color/stream_dark_black</item>
+        <item name="android:actionMenuTextColor">@color/stream_dark_black</item>
+        <item name="android:textColorSecondary">@color/stream_dark_black</item>
+        <item name="android:subtitleTextColor">@color/stream_dark_black</item>
+        <item name="android:textColorPrimary">@color/stream_dark_black</item>
+        <item name="android:textColorTertiary">@color/stream_dark_black</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBar" parent="ThemeOverlay.AppCompat.ActionBar" >
+    <item name="android:textColor">@color/stream_dark_black</item>
+    <item name="android:titleTextColor">@color/stream_dark_black</item>
+</style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    
+
+</resources>
+
+    <!--
+    bright_foreground_material_dark
+    background_floating_material_light
+    foreground_material_dark
+    -->

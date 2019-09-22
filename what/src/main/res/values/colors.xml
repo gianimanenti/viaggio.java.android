@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CCCCCC</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#3346ec</color>
+
+    <color name="stream_black">#de000000</color>
+    <color name="stream_dark_black">#8b000000</color>
+    <color name="stream_dark_gray">#8b000000</color>
+    <color name="stream_light_gray">#8bCCCCCC</color>
+    <color name="stream_button_background">#1a999999</color>
+    <color name="stream_button_text_black">#8a000000</color>
+    <color name="stream_button_text_blue">#304ffe</color>
+</resources>
